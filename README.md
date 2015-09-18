@@ -4,11 +4,13 @@ It is composed of an Arduino microcontroller connected to a strip of WS28* "Neop
 
 Dependencies:
 Python 3:
+```
   Flexx
   pygame
   pyaudio
   serial
   optparse
+```
 Arduino:
   
 
@@ -23,10 +25,10 @@ Plug the Arduino with the strip into the computer.
 Usage:
   1. Start launcher.py
   It will print the port on which the web interface for the program is running.
-  2. Go to localhost:THE_PORT/LightFX_Controller/ i.e. http://127.0.0.1:49270/LightFX_Controller/
+  2. Go to `localhost:THE_PORT/LightFX_Controller/` i.e. `http://127.0.0.1:49270/LightFX_Controller/`
   3. Select an audio device by number, on Windows you should most likely use Stereo Mix.
   4. From the drop down menu, select the serial port the Arduino is on.
   5. Click Start.
   6. Adjust the audio scale and exponent as needed and click Start to update the values. Optionally, enable Debug and Graph to see audio levels in the console.
 
-Alternatively, the analyzer may be run in headless mode with headless-windows.bat or headless-linux.sh. These are simply shortcuts for running main.py with some arbitrary values that work on my own system. These values MUST be changed to work on yours.
+Alternatively, the analyzer may be run in headless mode with `headless-windows.bat` or `headless-linux.sh`. These are simply shortcuts for running main.py with some arbitrary values that work on my own system. These values *MUST* be changed to work on yours.
