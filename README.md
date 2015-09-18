@@ -35,4 +35,4 @@ Plug the Arduino with the strip into the computer.
   5. Click Start.
   6. Adjust the audio scale and exponent as needed and click Start to update the values. Optionally, enable Debug and Graph to see audio levels in the console.
 
-##Alternatively, the analyzer may be run in headless mode with `headless-windows.bat` or `headless-linux.sh`. These are simply shortcuts for running main.py with some arbitrary values that work on my own system. These values *MUST* be changed to work on yours.
+Alternatively, the analyzer may be run in headless mode with `headless-windows.bat` or `headless-linux.sh`. These are simply shortcuts for running main.py with some arbitrary values that work on my own system. These values *MUST* be changed to work on yours.
