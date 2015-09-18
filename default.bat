@@ -1,0 +1,1 @@
+python main.py -s 6 -e 2.5 -p COM8 -a 2 -d 1 -c 2048 -l 1
