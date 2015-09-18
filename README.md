@@ -27,7 +27,7 @@ Plug the Arduino with the strip into the computer.
 
 
 ##Usage:
-  1. Start launcher.py
+  1. Start either `linux-launch.sh` script or `windows-launch.sh`. On Linux it does require `sudo` access, which is reflected in the `linux-launch.sh` script.
   It will print the port on which the web interface for the program is running.
   2. Go to `localhost:THE_PORT/LightFX_Controller/` i.e. `http://127.0.0.1:49270/LightFX_Controller/`
   3. Select an audio device by number, on Windows you should most likely use Stereo Mix.
