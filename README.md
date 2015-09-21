@@ -15,6 +15,7 @@ Libraries:
   serial
   optparse
 ```
+I have included a download of the Flexx library in this repo for convenience. 
 ##Arduino:
   Any Arduino microcontroller
   Sufficient power supply for your strip of LEDs
