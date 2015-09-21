@@ -2,7 +2,7 @@
 
 ##Intro:
 Welcome to LightFX, a hardware and software solution for making Windows or Linux system audio control RGB leds!
-The hardware is composed of an Arduino microcontroller connected to a strip of WS28* "Neopixel" addressable RBG LEDs. The software is a sound analysis program and separate web interface both written in Python.
+The hardware is composed of an Arduino microcontroller connected to a strip of WS28* "Neopixel" addressable RBG LEDs. The software is a sound analysis program and separate web interface both written in Python. This readme assumes the user is already knowledgeable in finding and installing Python libraries on their system.
 
 
 ##Software Dependencies:
