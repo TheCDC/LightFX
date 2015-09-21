@@ -9,13 +9,13 @@ The hardware is composed of an Arduino microcontroller connected to a strip of W
 Python 3
 Libraries:
 ```
-  Flexx
+  Flexx (https://github.com/zoofIO/flexx)
   pygame
   pyaudio
   serial
   optparse
 ```
-I have included a download of the Flexx library in this repo for convenience. 
+I have included a download of the Flexx library in this repo for convenience. I do not expect to update it often so please always install from pip or the Flexx GitHub repo.
 ##Arduino:
   Any Arduino microcontroller
   Sufficient power supply for your strip of LEDs
