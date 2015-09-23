@@ -17,9 +17,9 @@ Libraries:
 ```
 I have included a download of the Flexx library in this repo for convenience. I do not expect to update it often so please always install from pip or the Flexx GitHub repo.
 ##Arduino:
-  *Any Arduino microcontroller
-  *Sufficient power supply for your strip of LEDs
-  *Strip of WS28* LEds
+  * Any Arduino microcontroller
+  * Sufficient power supply for your strip of LEDs
+  * Strip of WS28* LEds
 
 ##Setup:
 Attach the Arduino to the strip. The user is expected to know how to correctly construct the circuit, the readme does not provide an electronics tutorial.
